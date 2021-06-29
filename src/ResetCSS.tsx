@@ -29,7 +29,7 @@ const ResetCSS = createGlobalStyle`
   }
   body {
     line-height: 1;
-    font-size: 116px;
+    font-size: 16px;
   }
   ol,
   ul {
