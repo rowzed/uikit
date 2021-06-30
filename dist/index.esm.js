@@ -2265,7 +2265,7 @@ var socials = [
         //         label: "Price Bot",
         //         href: "https://t.me/BinanceRocketEGG",
         //     },
-        // ],
+        ],
     },
     {
         label: "Twitter",
