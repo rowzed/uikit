@@ -2217,54 +2217,14 @@ var socials = [
                 label: "Chat (English)",
                 href: "https://t.me/astrobunnychat",
             },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-            // {
-            //     label: "中文",
-            //     href: "https://t.me/goosefinancechinese",
-            // },
-            // {
-            //   label: "Tiếng Việt",
-            //   href: "https://t.me/PancakeSwapVN",
-            // },
-            // {
-            //     label: "Italiano",
-            //     href: "https://t.me/goosefinanceitalian",
-            // },
-            // {
-            //     label: "русский",
-            //     href: "https://t.me/goosefinancerussian",
-            // },
-            // {
-            //     label: "Türkiye",
-            //     href: "https://t.me/GooseFinanceTurkey",
-            // },
-            // {
-            //   label: "Português",
-            //   href: "https://t.me/PancakeSwapPortuguese",
-            // },
-            // {
-            //     label: "Español",
-            //     href: "https://t.me/goosefinancespanish",
-            // },
-            // {
-            //     label: "日本語",
-            //     href: "https://t.me/goosefinancejapanese",
-            // },
-            // {
-            //     label: "Français",
-            //     href: "https://t.me/goosefinancefrench",
-            // },
             {
                 label: "Announcements",
                 href: "https://t.me/abunnyfinance",
             },
-        //     {
-        //         label: "Price Bot",
-        //         href: "https://t.me/BinanceRocketEGG",
-        //     },
+        //  {
+        //      label: "Price Bot",
+        //      href: "https://t.me/BinanceRocketEGG",
+        //  },
         ],
     },
     {
@@ -2624,7 +2584,7 @@ var AccountModal = function (_a) {
     return (React.createElement(Modal, { title: "Your wallet", onDismiss: onDismiss },
         React.createElement(Text, { fontSize: "20px", bold: true, style: { whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", marginBottom: "8px" } }, account),
         React.createElement(Flex, { mb: "32px" },
-            React.createElement(LinkExternal, { small: true, href: "https://bscscan.com/address/" + account, mr: "16px" }, "View on BscScan"),
+            React.createElement(LinkExternal, { small: true, href: "https://polygoncan.com/address/" + account, mr: "16px" }, "View on PolygonScan"),
             React.createElement(CopyToClipboard, { toCopy: account }, "Copy Address")),
         React.createElement(Flex, { justifyContent: "center" },
             React.createElement(Button, { size: "sm", variant: "secondary", onClick: function () {
