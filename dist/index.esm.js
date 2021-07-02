@@ -2214,8 +2214,8 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "English",
-                href: "https://t.me/goosedefi",
+                label: "Chat (English)",
+                href: "https://t.me/astrobunnychat",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2259,7 +2259,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/goosefinanceann",
+                href: "https://t.me/abunnyfinance",
             },
         //     {
         //         label: "Price Bot",
