@@ -2215,11 +2215,11 @@ var socials = [
         items: [
             {
                 label: "Chat (English)",
-                href: "https://t.me/astrobunnychat",
+                href: "https://t.me/testchat",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/abunnyfinance",
+                href: "https://t.me/testfinance",
             },
         //  {
         //      label: "Price Bot",
@@ -2230,7 +2230,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/astrobunnyfi",
+        href: "https://twitter.com/testfi",
     },
     // {
     //     label: "Reddit",
