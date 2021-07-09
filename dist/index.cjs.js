@@ -355,8 +355,8 @@ var Icon$p = function (props) {
 };
 
 var Icon$q = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 132 32" }, props),
-        React__default['default'].createElement("image", { width: "132", height: "32", href: "/images/egg/LogoTextNewDark.png" }))); // used to be 32 x 32 logo.png
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
+        React__default['default'].createElement("image", { width: "32", height: "32", href: "/images/egg/logo.png" }))); // used to be 32 x 32 logo.png
 };
 
 var Icon$r = function (props) {
@@ -2227,13 +2227,13 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "Chat (English)",
+                label: "English",
                 href: "https://t.me/testchat",
             },
-            {
-                label: "Announcements",
-                href: "https://t.me/testfinance",
-            },
+            // {
+            //     label: "Announcements",
+            //     href: "https://t.me/testfinance",
+            // },
             // {
             //     label: "Price Bot",
             //     href: "https://t.me/BinanceRocketEGG",

@@ -119,13 +119,13 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "Chat (English)",
+        label: "English",
         href: "https://t.me/testchat",
       },
-      {
-        label: "Announcements",
-        href: "https://t.me/testfinance",
-      },
+      // {
+      //   label: "Announcements",
+      //   href: "https://t.me/testfinance",
+      // },
       // {
       //   label: "Price Bot",
       //   href: "https://t.me/BinanceRocketEGG",
