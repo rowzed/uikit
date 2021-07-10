@@ -135,7 +135,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/testfi",
+    href: "https://twitter.com/PolyGatorFinanc",
   },
   // {
   //   label: "Reddit",
