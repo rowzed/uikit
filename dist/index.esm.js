@@ -2215,7 +2215,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/testchat",
+                href: "https://t.me/polygatorfinance",
             },
             // {
             //     label: "Announcements",
