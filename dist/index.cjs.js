@@ -2075,7 +2075,9 @@ var IconModule = /*#__PURE__*/Object.freeze({
     RoadmapIcon: Icon$12,
     BondsIcon: Icon$13,
     VaultsIcon: Icon$14,
-    EggHouseIcon: Icon$15
+    EggHouseIcon: Icon$15,
+    ArcadeIcon: Icon$16
+
 });
 
 var MenuButton = styled__default['default'](Button)(templateObject_1$x || (templateObject_1$x = __makeTemplateObject(["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"], ["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"])), function (_a) {
@@ -2129,7 +2131,7 @@ var links = [
     },
     {
         label: "Farms",
-        icon: "FarmIcon",
+        icon: "ArcadeIcon",
         href: "/farms",
     },
     {
