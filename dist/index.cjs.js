@@ -2076,7 +2076,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     BondsIcon: Icon$13,
     VaultsIcon: Icon$14,
     EggHouseIcon: Icon$15,
-    ArcadeIcon: Icon$16
+    // ArcadeIcon: Icon$16
 
 });
 
@@ -2131,7 +2131,7 @@ var links = [
     },
     {
         label: "Farms",
-        icon: "ArcadeIcon",
+        icon: "FarmIcon",
         href: "/farms",
     },
     {
