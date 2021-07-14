@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/polygatorfinance",
+        href: "https://t.me/gameboyfinance",
       },
       // {
       //   label: "Announcements",
@@ -135,7 +135,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/PolyGatorFinanc",
+    href: "https://twitter.com/Gameboy_Finance",
   },
   // {
   //   label: "Reddit",
