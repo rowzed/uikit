@@ -2231,7 +2231,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/Gameboy_Finance",
+        href: "https://twitter.com/GameboyFinance",
     },
     // {
     //     label: "Reddit",
