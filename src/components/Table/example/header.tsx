@@ -4,7 +4,7 @@ const StyledTh = styled.th`
   background: #eff4f5;
   padding: 8px;
   font-size: 12px;
-  color: #04dcfc;
+  color: #00a3ff;
 
   &:first-child {
     border-top-left-radius: 4px;

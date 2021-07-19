@@ -7,7 +7,7 @@ const Overlay = styled.div.attrs({ role: "presentation" })<OverlayProps>`
   left: 0px;
   width: 100%;
   height: 100%;
-  background-color: #fc6cac;
+  background-color: #00a3ff;
   transition: opacity 0.4s;
   opacity: ${({ show }) => (show ? 0.6 : 0)};
   z-index: ${({ zIndex }) => zIndex};
