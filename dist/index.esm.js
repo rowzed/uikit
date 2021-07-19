@@ -2231,7 +2231,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/RoboBuddyFiFinance",
+        href: "https://twitter.com/RoboBuddyFi",
     },
     // {
     //     label: "Reddit",
