@@ -1045,7 +1045,7 @@ var getColor$1 = function (color, theme) {
 
 var getThemeTextColor = function (_a) {
     var outline = _a.outline, _b = _a.variant, variant = _b === void 0 ? "primary" : _b, theme = _a.theme;
-    return outline ? getColor$1(variant, theme) : "#d4dcd7";
+    return outline ? getColor$1(variant, theme) : "#16e36c";
 };
 var StyledTag = styled.div(templateObject_1$n || (templateObject_1$n = __makeTemplateObject(["\n  align-items: center;\n  background-color: ", ";\n  border: 2px solid ", ";\n  border-radius: 16px;\n  color: ", ";\n  display: inline-flex;\n  font-size: 14px;\n  font-weight: 400;\n  height: 28px;\n  line-height: 1.5;\n  padding: 0 8px;\n  white-space: nowrap;\n\n  svg {\n    fill: ", ";\n  }\n"], ["\n  align-items: center;\n  background-color: ",
     ";\n  border: 2px solid ", ";\n  border-radius: 16px;\n  color: ", ";\n  display: inline-flex;\n  font-size: 14px;\n  font-weight: 400;\n  height: 28px;\n  line-height: 1.5;\n  padding: 0 8px;\n  white-space: nowrap;\n\n  svg {\n    fill: ", ";\n  }\n"])), function (_a) {
@@ -2823,10 +2823,10 @@ var baseColors = {
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#d4dcd7", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#00a3ff", textDisabled: "#BDC2C4", textSubtle: "#00a3ff", borderColor: "#E9EAEB", card: "#d4dcd7", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#16e36c", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#00a3ff", textDisabled: "#BDC2C4", textSubtle: "#00a3ff", borderColor: "#E9EAEB", card: "#16e36c", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#9a5f61", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#d4dcd7", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#00a3ff", textDisabled: "#666171", textSubtle: "#00a3ff", borderColor: "#524B63", card: "#27262c", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#9a5f61", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#16e36c", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#00a3ff", textDisabled: "#666171", textSubtle: "#00a3ff", borderColor: "#524B63", card: "#6c2c0c", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
@@ -2848,7 +2848,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "inset 0px -1px 0px rgba(14, 14, 44, 0.4)",
         boxShadowActive: "inset 0px -1px 0px rgba(14, 14, 44, 0.4)",
-        color: "#d4dcd7",
+        color: "#16e36c",
     },
     _a$2[SECONDARY] = {
         background: "transparent",
@@ -2888,7 +2888,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "none",
         boxShadowActive: "none",
-        color: "#d4dcd7",
+        color: "#16e36c",
     },
     _a$2[SUBTLE] = {
         background: lightColors.textSubtle,
@@ -2898,7 +2898,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "none",
         boxShadowActive: "none",
-        color: "#d4dcd7",
+        color: "#16e36c",
     },
     _a$2[SUCCESS] = {
         background: lightColors.success,
@@ -2908,7 +2908,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "none",
         boxShadowActive: "none",
-        color: "#d4dcd7",
+        color: "#16e36c",
     },
     _a$2);
 var dark$1 = (_b = {},
