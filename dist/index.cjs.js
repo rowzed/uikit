@@ -2230,7 +2230,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/robobuddyfinance",
+                href: "https://t.me/hamsterfarmpolygon",
             },
             // {
             //     label: "Announcements",
