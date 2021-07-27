@@ -2229,8 +2229,8 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "English",
-                href: "https://t.me/hamsterfarmpolygon",
+                label: "Chat",
+                href: "https://t.me/sushifarmfinance",
             },
             // {
             //     label: "Announcements",
@@ -2245,7 +2245,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/hamster_farm",
+        href: "https://twitter.com/SushiFarmFi",
     },
     // {
     //     label: "Reddit",
