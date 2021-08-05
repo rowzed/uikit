@@ -119,8 +119,8 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "Chat",
-        href: "https://t.me/sushifarmfinance",
+        label: "English",
+        href: "https://t.me/0xNinja",
       },
       // {
       //   label: "Announcements",
@@ -135,7 +135,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/SushiFarmFi",
+    href: "https://twitter.com/0x__Ninja",
   },
   // {
   //   label: "Reddit",
