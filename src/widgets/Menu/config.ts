@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/zerox_Ninja",
+        href: "https://t.me/watersportsfinance",
       },
       // {
       //   label: "Announcements",
@@ -135,7 +135,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/0x__Ninja",
+    href: "https://twitter.com/WaterSportsFi",
   },
   // {
   //   label: "Reddit",
