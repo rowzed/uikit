@@ -12,7 +12,7 @@ export const light: ButtonTheme = {
     borderColorHover: "currentColor",
     boxShadow: "inset 0px -1px 0px rgba(14, 14, 44, 0.4)",
     boxShadowActive: "inset 0px -1px 0px rgba(14, 14, 44, 0.4)",
-    color: "#dbdbdb",
+    color: "#e3b3e4",
   },
   [SECONDARY]: {
     background: "transparent",
@@ -52,7 +52,7 @@ export const light: ButtonTheme = {
     borderColorHover: "currentColor",
     boxShadow: "none",
     boxShadowActive: "none",
-    color: "#dbdbdb",
+    color: "#e3b3e4",
   },
   [SUBTLE]: {
     background: lightColors.textSubtle,
@@ -62,7 +62,7 @@ export const light: ButtonTheme = {
     borderColorHover: "currentColor",
     boxShadow: "none",
     boxShadowActive: "none",
-    color: "#dbdbdb",
+    color: "#e3b3e4",
   },
   [SUCCESS]: {
     background: lightColors.success,
@@ -72,7 +72,7 @@ export const light: ButtonTheme = {
     borderColorHover: "currentColor",
     boxShadow: "none",
     boxShadowActive: "none",
-    color: "#dbdbdb",
+    color: "#e3b3e4",
   },
 };
 
