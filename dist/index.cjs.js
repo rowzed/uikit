@@ -2230,7 +2230,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/watersportsfinance",
+                href: "https://t.me/polypigdigital",
             },
             // {
             //     label: "Announcements",
@@ -2245,7 +2245,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/WaterSportsFi",
+        href: "https://twitter.com/PolyPigDig",
     },
     // {
     //     label: "Reddit",
