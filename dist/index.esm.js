@@ -2218,10 +2218,10 @@ var socials = [
                 label: "English",
                 href: "https://t.me/polypigdigital",
             },
-            // {
-            //     label: "Announcements",
-            //     href: "https://t.me/testfinance",
-            // },
+            {
+                label: "Announcements",
+                href: "https://t.me/polypigdigitalann",
+            },
         //  {
         //      label: "Price Bot",
         //      href: "https://t.me/BinanceRocketEGG",
@@ -2231,7 +2231,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/PolyPigDig",
+        href: "https://twitter.com/PolyPigDigital",
     },
     // {
     //     label: "Reddit",
