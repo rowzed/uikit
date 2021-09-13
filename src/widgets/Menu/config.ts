@@ -119,7 +119,7 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "English",
+        label: "Chat",
         href: "https://t.me/polypigdigital",
       },
       {
