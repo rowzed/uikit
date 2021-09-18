@@ -2214,10 +2214,10 @@ var socials = [
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
-            {
-                label: "Chat",
-                href: "https://t.me/polypigdigital",
-            },
+            // {
+            //     label: "Chat",
+            //     href: "https://t.me/polypigdigital",
+            // },
             {
                 label: "Announcements",
                 href: "https://t.me/polypigdigitalann",
